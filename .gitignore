@@ -1,4 +1,2 @@
-./App/bin/
-./App/obj/
-./AppLogger/bin/
-./AppLogger/obj/
+bin/
+obj/
