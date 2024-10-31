@@ -1,4 +1,4 @@
 # AppLogger
 
-C#-sovellus, suorita komennolla
-`dotnet run`
+C#-sovellus, joka esittelee Humanizer-luokan toimintaa tulostamalla tekstiä konsoliin.
+Suorita komennolla `dotnet run`
